@@ -1,3 +1,6 @@
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br><br>
+
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">A passionate NLP researcher from Vietnam</h3>
 
